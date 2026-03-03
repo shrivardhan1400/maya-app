@@ -1,13 +1,5 @@
-<<<<<<< HEAD
+# Maya XR Club
 
-README.md
+Official website for Maya XR Club.
 
-# maya-xrclub
-
-A simple React app using XR Club to display the hero image.
-
-
-
-=======
-# arvr-app
->>>>>>> 786ebec9cfcdd49ec8ac2886cb81384c8aa879d7
+Built with modern web technologies.
